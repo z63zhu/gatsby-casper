@@ -2,9 +2,9 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Ghost',
-    description: 'The professional publishing platform',
-    siteUrl: 'https://z63zhu.netlify.com', // full path to blog - no ending slash
+    title: 'Zizhong Zhu',
+    description: 'Full-stack developer',
+    siteUrl: 'https://z63zhu.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
